@@ -1,0 +1,11 @@
+/.clover/
+
+*.settings
+*.project
+*.classpath
+*target*
+/.idea
+*.iml
+*.bak
+*.orig
+/.metadata/
